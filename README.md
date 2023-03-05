@@ -1,1 +1,1 @@
-# CI
+# Computational Intelligence  - AGH UST course
